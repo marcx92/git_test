@@ -22,7 +22,7 @@ SELECT c.Description, COUNT(f.Cancelled) FROM flights as f LEFT JOIN carriers as
  
 /*6. L’identificador dels 10 avions que més distància han recorregut fent vols. */
  
- SELECT TailNum, SUM(Distance) FROM flights GROUP BY TailNum LIMIT 10;
+ SELECT TailNum, SUM(Distance) FROM flights GROUP BY TailNum HAVING TailNum !='NA' ORDER BY SUM(Distance) DESC LIMIT 10;
  
 /*7. Companyies amb el seu retard promig només d’aquelles les quals els seus vols arriben al seu destí amb un retràs promig major de 10 minuts. */
 
