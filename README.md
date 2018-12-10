@@ -4,3 +4,4 @@ Exercici USFlights - https://github.com/marcx92/git_test/blob/master/exercici_us
 
 Exercici UML 1 - https://github.com/marcx92/git_test/blob/master/Exercici_UML1_MarcXCadevall.pdf
 
+Exercici UML 2 - https://github.com/marcx92/git_test/blob/master/Exercici_UML2_MarcXCadevall.pdf
