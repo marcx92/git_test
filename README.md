@@ -7,3 +7,9 @@ Exercici UML 1 - https://github.com/marcx92/git_test/blob/master/Exercici_UML1_M
 Exercici UML 2 - https://github.com/marcx92/git_test/blob/master/Exercici_UML2_MarcXCadevall.pdf
 
 Exercici Lletres Repetides - https://github.com/marcx92/git_test/tree/master/Exercici%20Lletres%20repetides
+
+Exercici Videos - https://github.com/marcx92/git_test/tree/master/ExerciciVideos
+
+Exercici Cohets - https://github.com/marcx92/git_test/tree/master/ExerciciCohets
+
+Exercici Jobs - https://github.com/marcx92/git_test/tree/master/ExerciciJobs
