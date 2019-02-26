@@ -13,3 +13,5 @@ Exercici Videos - https://github.com/marcx92/git_test/tree/master/ExerciciVideos
 Exercici Cohets - https://github.com/marcx92/git_test/tree/master/ExerciciCohets
 
 Exercici Jobs - https://github.com/marcx92/git_test/tree/master/ExerciciJobs
+
+Exercici Floristeria - https://github.com/marcx92/git_test/tree/master/ExerciciFloristeria
