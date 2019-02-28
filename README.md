@@ -17,3 +17,5 @@ Exercici Jobs - https://github.com/marcx92/git_test/tree/master/ExerciciJobs
 Exercici Floristeria - https://github.com/marcx92/git_test/tree/master/ExerciciFloristeria
 
 Exercici Unify - https://github.com/marcx92/git_test/tree/master/ExerciciUnify
+
+Exercici Joc de Daus - https://github.com/marcx92/git_test/tree/master/ExerciciJocDeDaus
