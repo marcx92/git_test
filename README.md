@@ -21,3 +21,5 @@ Exercici Unify - https://github.com/marcx92/git_test/tree/master/ExerciciUnify
 Exercici Botiga de Quadres - https://github.com/marcx92/git_test/tree/master/ExerciciBotigaDeQuadres
 
 Exercici Joc de Daus - https://github.com/marcx92/git_test/tree/master/ExerciciJocDeDaus
+
+Exercici Ticder - https://github.com/marcx92/git_test/tree/master/ExerciciTicder
