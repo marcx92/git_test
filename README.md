@@ -23,3 +23,5 @@ Exercici Botiga de Quadres - https://github.com/marcx92/git_test/tree/master/Exe
 Exercici Joc de Daus - https://github.com/marcx92/git_test/tree/master/ExerciciJocDeDaus
 
 Exercici Ticder - https://github.com/marcx92/git_test/tree/master/ExerciciTicder
+
+Exercici Taxi Driver - https://github.com/marcx92/git_test/tree/master/ExerciciTaxiDriver
